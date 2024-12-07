@@ -179,7 +179,7 @@ ui <- dashboardPage(
     tags$div(
       style = "background-color: transparent; text-align: center;
            color: white; width: 100%; font-weight: bold;",
-      "© 2024 Cai Airong"
+      "© 2024 He Runhai"
     )
   )),
   dashboardBody(uiOutput("dynamicContent"))
