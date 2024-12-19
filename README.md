@@ -1,4 +1,4 @@
-# Visual-analysis-of-high-dimensional-data-dimensionality-reduction
+# Visual analysis of high dimensional data dimensionality reduction
 
 ![image](https://github.com/user-attachments/assets/924cfad3-3f57-4149-b82e-97d70f0a434c)
 
